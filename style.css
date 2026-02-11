@@ -1,0 +1,24 @@
+#cool{ 
+			width: 275px;
+			height: 275px;
+			border: 10px solid red;
+
+		}	
+
+		.Boom{
+			width: 275px;
+			height: 275px;
+			border: 10px solid red;
+			border-radius: 50%;
+		}	
+
+
+		/*CSS Comments*/
+
+
+		.Cafe{
+			font-size: 25px;
+			width: 800px;
+			text-align: justify;
+			background: azure;
+		}
